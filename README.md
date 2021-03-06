@@ -12,7 +12,7 @@ Original bad-quality image, bad-quality image after CLAHE,visible spectral-index
 
 <img src="https://github.com/sudokhan112/Weed-Plant-Recognition/blob/main/Plant-Weed-Segmentation/fig5_6.png" width="600" height="400">
 
-Link to paper: https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2019/59414/V004T05A042/1073161
+**[Link to paper] (https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2019/59414/V004T05A042/1073161)**
 
 
 **Cite this work**
